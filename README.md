@@ -7,7 +7,8 @@ Smart, personalized travel itineraries generated with AI.
 [![Tech stack](https://img.shields.io/badge/tech-AI%20%7C%20Node%2FNext%2FPython-lightgrey.svg)](#built-with)
 
 Live demo: <DEMO_URL>
-Screenshot / GIF: ![demo](<DEMO_GIF_OR_IMAGE_URL>)
+Screenshot / GIF: ![demo](<<img width="1870" height="816" alt="Screenshot 2026-02-03 194645" src="https://github.com/user-attachments/assets/d49f3649-e35e-43fb-b80a-3c7565786199" />
+>)
 
 ---
 
