@@ -247,7 +247,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) (add this file) for detailed guid
 
 ## Security
 
-If you discover a security vulnerability, please responsibly disclose it by opening a private issue or contacting the maintainer at <MAINTAINER_EMAIL>. Do not create a public issue for security vulnerabilities.
+If you discover a security vulnerability, please responsibly disclose it by opening a private issue or contacting the maintainer at <aswinr22052004@gmail.com>. Do not create a public issue for security vulnerabilities.
 
 ---
 
@@ -269,7 +269,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 Repo: [aswinr05/travel-itinerary-ai](https://github.com/aswinr05/travel-itinerary-ai)
 
-Maintainer: aswinr05 — <YOUR_EMAIL_OR_CONTACT>
+Maintainer: aswinr05 — <aswinr22052004@gmail.com>
 
 Website: https://your-website.example
 
