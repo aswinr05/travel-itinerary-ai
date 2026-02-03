@@ -1,6 +1,6 @@
 document.getElementById("travelForm").addEventListener("submit", function (e) {
   e.preventDefault();
-
+ 
   const data = {
     destination: document.getElementById("destination").value,
     days: document.getElementById("days").value,
