@@ -11,7 +11,7 @@ document.getElementById("travelForm").addEventListener("submit", function (e) {
     preferences: document.getElementById("preferences").value
   };
 
-  const webhookURL = "https://aswinr005.app.n8n.cloud/webhook/8016c865-3144-4200-bf13-99a562353b35";
+  const webhookURL = "https://aswinr005.app.n8n.cloud/webhook/641a2706-7a00-4579-b0ae-6fb211dd3edb";
 
   fetch(webhookURL, {
     method: "POST",
